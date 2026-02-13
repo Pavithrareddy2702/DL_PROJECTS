@@ -25,7 +25,7 @@ dataset/
 
 Methods Used
 
-1️. Otsu Thresholding
+1. Otsu Thresholding
 
 Global thresholding method
 Computes a single threshold for the entire image
