@@ -1,19 +1,6 @@
-🧠 Brain MRI Tumor Segmentation
-Comparison of Otsu and Sauvola Thresholding Methods
 
-📌 Project Description
 
-This project performs brain tumor segmentation on MRI images using two classical thresholding techniques:
-
-Otsu's Global Thresholding
-Sauvola's Adaptive Thresholding
-
-The segmented tumor regions are compared with ground truth masks using evaluation metrics.
-
-📂 Dataset
-
-Dataset used:
-Brain MRI Tumor Segmentation Dataset
+📂 Datasets
 
 Kaggle Link for 1st project :
 https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation
